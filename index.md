@@ -1,23 +1,23 @@
 # Portfolio Second
 &nbsp;
-## 0. 목차
-#### 1) [컨셉](#1)
-#### 2) [관련 이미지와 동영상](#2)
-#### 3) [대표이미지 그리고 컨셉과 대표이미지 기반 작품 묘사](#3)
-#### 4) [구성요소](#4)
-#### 5) [게임 시스템 디자인](#5)
-#### 6) [요구사항](#6)
-#### 7) [키보드 이벤트에 대한 흐름도](#7)
-#### 8) [용어 정리](#8)
-#### 9) [주별 개발작업 계획표](#9)
-#### 10) [주별 작업결과 목록](Results/index.md)
+## 0. Index
+#### 1) [Concept](#1)
+#### 2) [Related videos and images](#2)
+#### 3) [작품 묘사](#3)
+#### 4) [Components](#4)
+#### 5) [Game system design](#5)
+#### 6) [Requirements](#6)
+#### 7) [Keybaord Event](#7)
+#### 8) [Terms](#8)
+#### 9) [Development plan](#9)
+#### 10) [Development plan results](Results/index.md)
 &nbsp;
-## 1. 컨셉<a name='1'></a>
-## 2. 관련 이미지와 동영상<a name='2'></a>
-## 3. 대표이미지 그리고 컨셉과 대표이미지 기반 작품 묘사<a name='3'></a>
-## 4. 구성요소<a name='4'></a>
-## 5. 게임 시스템 디자인<a name='5'></a>
-## 6. 요구사항<a name='6'></a>
-## 7. 키보드 이벤트에 대한 흐름도<a name='7'></a>
-## 8. 용어 정리<a name='8'></a>
-## 9. 주별 개발작업 계획표<a name='9'></a>
+## 1. Concept<a name='1'></a>
+## 2. Related videos and images<a name='2'></a>
+## 3. 작품 묘사<a name='3'></a>
+## 4. Components<a name='4'></a>
+## 5. Game system design<a name='5'></a>
+## 6. Requirements<a name='6'></a>
+## 7. Keybaord Event<a name='7'></a>
+## 8. Terms<a name='8'></a>
+## 9. Development plan<a name='9'></a>
