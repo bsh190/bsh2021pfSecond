@@ -1,7 +1,4 @@
----
----
-
-@import "{{ site.theme }}";
-.markdown-body{
-  font-family: 'font.otf', Times, serif;
+@font-face {
+  font-family: font;
+  src: url('path/font.otf') format('otf')
 }
