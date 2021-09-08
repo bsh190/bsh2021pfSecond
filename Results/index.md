@@ -7,7 +7,7 @@
 #### 5) [5주](Week5/index.md)
 #### 6) [6주](Week6/index.md)
 #### 7) 중간 발표
-#### 8) [8주](Week81/index.md)
+#### 8) [8주](Week8/index.md)
 #### 9) [9주](Week9/index.md)
 #### 10) [10주](Week10/index.md)
 #### 11) [11주](Week11/index.md)
