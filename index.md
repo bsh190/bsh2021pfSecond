@@ -1,16 +1,16 @@
 # Portfolio Second
 &nbsp;
 ## 0. Index
-#### 1) [Concept](#1)
-#### 2) [Related videos and images](#2)
+#### 1) [컨셉](#1)
+#### 2) [관련 이미지, 영상](#2)
 #### 3) [작품 묘사](#3)
-#### 4) [Components](#4)
-#### 5) [Game system design](#5)
-#### 6) [Requirements](#6)
-#### 7) [Keyboard Event](#7)
-#### 8) [Terms](#8)
-#### 9) [Development plan](#9)
-#### 10) [Development plan results](Results/index.md)
+#### 4) [구성요소](#4)
+#### 5) [시스템 디자인](#5)
+#### 6) [요구사항](#6)
+#### 7) [키 이벤트](#7)
+#### 8) [용어 정리](#8)
+#### 9) [주별 개발작업 계획](#9)
+#### 10) [주별 개발작업 결과](Results/index.md)
 &nbsp;
 ## 1. Concept<a name='1'></a>
 ## 2. Related videos and images<a name='2'></a>
