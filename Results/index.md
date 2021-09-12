@@ -1,7 +1,7 @@
 # 주별 개발작업 결과 
 &nbsp;
 ## 0. 목차
-#### 1) [1주](Week1/index.md)
+#### 1) 프로젝트 계획서 작성 및 제출
 #### 2) [2주](Week2/index.md)
 #### 3) [3주](Week3/index.md)
 #### 4) [4주](Week4/index.md)
