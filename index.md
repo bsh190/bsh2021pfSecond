@@ -10,7 +10,7 @@
 #### 7) [키 이벤트](#7)
 #### 8) [용어 정리](#8)
 #### 9) [주별 개발작업 계획](#9)
-#### 10) [주별 개발작업 결과](results/index.md)
+#### 10) [주별 개발작업 결과](Results/index.md)
 &nbsp;
 ## 1. 컨셉<a name='1'></a>
 #### 1) 메인 컨셉 (1): 판타지
@@ -20,15 +20,15 @@
 &nbsp;
 ## 2. 관련 이미지, 영상<a name='2'></a>
 #### 1) 관련 이미지
-- ![ri-1](assets/ri-1.png)
-- ![ri-2](assets/ri-2.png)
-- ![ri-3](assets/ri-3.png)
+- ![ri-1](Assets/ri-1.png)
+- ![ri-2](Assets/ri-2.png)
+- ![ri-3](Assets/ri-3.png)
 #### 2) 관련 동영상
-- [![rv](assets/rv.png)](https://youtu.be/UL3bW6MTk5E)
+- [![rv](Assets/rv.png)](https://youtu.be/UL3bW6MTk5E)
 ## 3. 작품 묘사<a name='3'></a>
-- ![jm-1](assets/jm-1.png)
-- ![jm-2](assets/jm-2.png)
-- ![jm-3](assets/jm-3.png)
+- ![jm-1](Assets/jm-1.png)
+- ![jm-2](Assets/jm-2.png)
+- ![jm-3](Assets/jm-3.png)
 &nbsp;
 ## 4. 구성요소<a name='4'></a>
 #### 1) 매커니즘
