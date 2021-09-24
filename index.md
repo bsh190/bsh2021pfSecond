@@ -24,6 +24,7 @@
 - ![ri-3](Assets/ri-3.png)
 #### 2) 관련 동영상
 - [![rv](Assets/rv.png)](https://youtu.be/UL3bW6MTk5E)
+- [![rv2](Assets/rv.png)](https://youtu.be/9HgwEENNZ8g)
 &nbsp;
 ## 3. 구성요소<a name='4'></a>
 #### 1) 기술
