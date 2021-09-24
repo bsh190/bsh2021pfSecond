@@ -22,6 +22,9 @@
 - ![ri-1](Assets/ri-1.png)
 - ![ri-2](Assets/ri-2.png)
 - ![ri-3](Assets/ri-3.png)
+- ![ri-4](Assets/ri-4.png)
+- ![ri-5](Assets/ri-5.png)
+- ![ri-6](Assets/ri-6.png)
 #### 2) 관련 동영상
 - [![rv](Assets/rv.png)](https://youtu.be/UL3bW6MTk5E)
 - [![rv2](Assets/rv.png)](https://youtu.be/9HgwEENNZ8g)
