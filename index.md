@@ -129,5 +129,6 @@
 - ![key](Assets/key.png)
 &nbsp;
 ## 7. 주별 개발작업 계획<a name='9'></a>
+#### 1) 1차 계획
 - ![plan](Assets/plan.png)
 &nbsp;
