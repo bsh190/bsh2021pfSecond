@@ -19,14 +19,18 @@
 &nbsp;
 ## 2. 관련 이미지, 영상<a name='2'></a>
 #### 1) 관련 이미지
+###### 1.1) Dark Souls 3
 - ![ri-1](Assets/ri-1.png)
 - ![ri-2](Assets/ri-2.png)
 - ![ri-3](Assets/ri-3.png)
+###### 1.2) Pascal's Wager
 - ![ri-4](Assets/ri-4.png)
 - ![ri-5](Assets/ri-5.png)
 - ![ri-6](Assets/ri-6.png)
 #### 2) 관련 동영상
+###### 2.1) Dark Souls 3
 - [![rv](Assets/rv.png)](https://youtu.be/UL3bW6MTk5E)
+###### 2.2) Pascal's Wager
 - [![rv2](Assets/rv.png)](https://youtu.be/9HgwEENNZ8g)
 &nbsp;
 ## 3. 구성요소<a name='4'></a>
