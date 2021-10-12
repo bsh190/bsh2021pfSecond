@@ -5,5 +5,5 @@
 ![result-1](1.gif)
 
 #### 1) [tinygltf](https://github.com/syoyo/tinygltf)
-#### 2) tinygltf 예제: https://github.com/SaschaWillems/Vulkan-glTF-PBR
-#### 3) 사용한 gltf 모델: https://skfb.ly/6YZNJ
+#### 2) [SaschaWillems의 tinygltf 예제](https://github.com/SaschaWillems/Vulkan-glTF-PBR)
+#### 3) [사용한 gltf 모델](https://skfb.ly/6YZNJ)
