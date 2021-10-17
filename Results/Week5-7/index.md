@@ -48,4 +48,4 @@ player->root->rotation =
 //scale 생략
 m.unlock();
 ```
-5) [사용한 gltf 모델](https://skfb.ly/6FVqM)
+#### 5) [사용한 gltf 모델](https://skfb.ly/6FVqM)
