@@ -39,10 +39,12 @@ if (glfwGetKey(window, GLFW_KEY_D) == GLFW_PRESS) {
 ```
 ###### - 행렬 처리
 ```
+m.lock();//#include<mutex>
 player->root->translation += _vec;
 player->root->rotation =
     glm::angleAxis(glm::radians(90.f), glm::vec3(1.f, 0.f, 0.f)) *
     glm::angleAxis(glm::radians(90.f + player->rotateAngle), glm::vec3(0.f, 1.f, 0.f)) *
     glm::angleAxis(glm::radians(0.f), glm::vec3(0.f, 0.f, 1.f));
 //scale 생략
+m.unlock();
 ```
