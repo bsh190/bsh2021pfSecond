@@ -8,7 +8,7 @@
 #### 2) [SaschaWillems의 tinygltf 예제](https://github.com/SaschaWillems/Vulkan-glTF-PBR)
 #### 3) [사용한 gltf 모델](https://skfb.ly/6YZNJ)
 
-## 2. gltf모델의 material, texture를 추출하여 descriptor를 만들고, vertices, indices 드로우에 descriptorSets 적용
+## 2. gltf모델의 material, texture를 추출하여 descriptor를 만들고, vertices, indices 드로우에 descriptor 적용
 
 ![result-2](2.gif)
 
