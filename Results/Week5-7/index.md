@@ -18,6 +18,7 @@
 ###### - (실패) node -> mesh -> primitive -> material ... 순으로 접근
 ###### - (성공) node, mesh, primitive, material들을 오브젝트에 vector로 저장(부모-자식 관계는 포인터로 연결), 그리고 필요할때마다 vector만 호출하여 처리
 #### 4) 이동 추가
+###### - 키보드 이벤트
 ```
 if (glfwGetKey(window, GLFW_KEY_W) == GLFW_PRESS) {
     dir = glm::radians(player->rotateAngle);
@@ -35,4 +36,13 @@ if (glfwGetKey(window, GLFW_KEY_S) == GLFW_PRESS) {
 if (glfwGetKey(window, GLFW_KEY_D) == GLFW_PRESS) {
     player->rotateAngle -= rotationSpeed;
 }
+```
+###### - 행렬 처리
+```
+player->root->translation += _vec;
+player->root->rotation =
+    glm::angleAxis(glm::radians(90.f), glm::vec3(1.f, 0.f, 0.f)) *
+    glm::angleAxis(glm::radians(90.f + player->rotateAngle), glm::vec3(0.f, 1.f, 0.f)) *
+    glm::angleAxis(glm::radians(0.f), glm::vec3(0.f, 0.f, 1.f));
+//scale 생략
 ```
