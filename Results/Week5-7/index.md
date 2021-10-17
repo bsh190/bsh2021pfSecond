@@ -15,5 +15,4 @@
 #### 1) 1번에서 완성할 수 있었으나, 접근법이 달라 1번에서는 적용하지 못했었음. 
 #### 2) 그러나 새로운 접근법을 적용하니 제대로 적용됨.
 #### 3) 접근법의 변화
-###### - $[1] 제작한 node를 nodes vector에 담고 node의 자식은 node 구조체에 저장. 이후1 foreach문으로 node->child->mesh->primitive->material 이런순으로 접근하여 드로우 (실패) $
-###### - $[2] 제작한 node를 nodes vector에 담고 foreach문으로 하나하나 적용 후 children까지 적용(실패) $
+###### - <span style="color: red;">noed→mesh→primitive→material... 순으로 접근하여 적용 (실패)</span>
