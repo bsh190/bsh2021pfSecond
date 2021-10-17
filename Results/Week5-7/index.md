@@ -17,3 +17,22 @@
 #### 3) 접근법의 변화
 ###### - (실패) node -> mesh -> primitive -> material ... 순으로 접근
 ###### - (성공) node, mesh, primitive, material들을 오브젝트에 vector로 저장(부모-자식 관계는 포인터로 연결), 그리고 필요할때마다 vector만 호출하여 처리
+#### 4) 이동 추가
+```
+if (glfwGetKey(window, GLFW_KEY_W) == GLFW_PRESS) {
+    dir = glm::radians(player->rotateAngle);
+    _vec.x = cos(dir) * speed;
+    _vec.y = sin(dir) * speed;
+}
+if (glfwGetKey(window, GLFW_KEY_A) == GLFW_PRESS) {
+    player->rotateAngle += rotationSpeed;
+}
+if (glfwGetKey(window, GLFW_KEY_S) == GLFW_PRESS) {
+    dir = glm::radians(player->rotateAngle + 180);
+    _vec.x = cos(dir) * speed;
+    _vec.y = sin(dir) * speed;
+}
+if (glfwGetKey(window, GLFW_KEY_D) == GLFW_PRESS) {
+    player->rotateAngle -= rotationSpeed;
+}
+```
