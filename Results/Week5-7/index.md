@@ -16,4 +16,4 @@
 #### 2) 그러나 새로운 접근법을 적용하니 제대로 적용됨.
 #### 3) 접근법의 변화
 
-<span style="color: red;">noed→mesh→primitive→material... 순으로 접근하여 적용 (실패)</span>
+###### - ![#ff0000]noed→mesh→primitive→material... 순으로 접근하여 적용 (실패)
